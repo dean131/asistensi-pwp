@@ -2,7 +2,7 @@
 
 **Halo, calon web developer!** 🎨💻
 
-Dosen kita kasih tantangan buat kalian buat **website portofolio pribadi** pakai **HTML & CSS**. Ini kesempatan kalian buat tunjukin kreativitas sekaligus latihan bikin layout yang rapi.
+Pada Responsi kali ini, kalian akan membuat sebuah **website portofolio pribadi** menggunkan **HTML & CSS**. Ini kesempatan kalian buat tunjukin kreativitas sekaligus latihan bikin layout yang rapi.
 
 ### **Apa yang Harus Dibuat?**
 
